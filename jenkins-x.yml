@@ -1,0 +1,4 @@
+issueTracker:
+  kind: jira
+  url: https://cloudbees.atlassian.net/
+  project: CTP
